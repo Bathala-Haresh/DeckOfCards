@@ -9,7 +9,7 @@ public class DeckOfCards {
 
 		//Array of all the cards with the face type have been declared.
 		String shape[]={"Spades","Clover","Diamond","Heart"};
-		String rank[]={"A","2","3","4","5","6","7","8","9","10","J","Q","K"};
+		String rank[]={"2","3","4","5","6","7","8","9","10","Jack","Quene","King","Ace"};
 
 		//Object from the player class has been initialized.
 		Player object[]=new Player[4];
